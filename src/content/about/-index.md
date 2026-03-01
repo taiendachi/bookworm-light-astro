@@ -12,9 +12,10 @@ what_i_do:
         ngerangkai ide jadi tulisan yang rapi, tajam, dan enak dibaca. Kadang
         ngebahas topik yang lagi rame, kadang ngulik hal yang orang lain nggak
         kepikiran.
-    - title: Web Research
-      description: Aenean maximus urna magna elementum venenatis, quis semper non
-        purus eget ipsum venenatis.
+    - title: Content Creator
+      description: Bikin konten itu fun. Tapi bukan asal upload. Gue nikmatin
+        prosesnya dari mikirin konsep, nulis script, sampai eksekusi. Bukan soal
+        viral, tapi soal eksplorasi dan konsistensi.
 ---
 Gue bukan cuma nulis. Gue bikin konten yang kerja.
 
