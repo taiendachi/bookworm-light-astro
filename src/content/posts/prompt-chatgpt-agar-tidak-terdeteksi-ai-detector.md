@@ -26,13 +26,15 @@ Masalahnya, algoritma detektor AI itu cuma nyari pola kalimat yang terlalu rapi 
 
 ## Kenapa AI Detector Selalu Menang?
 
-Karena gaya bahasa default AI itu punya _perplexity_ (kerumitan) dan _burstiness_ (variasi kalimat) yang rendah. Singkatnya: kalimatnya rata, datar, dan gak punya emosi. Media nasional gak bakal ngasih tau lu trik "dapur" ini karena mereka biasanya cuma bahas permukaannya aja.
+Karena gaya bahasa default AI itu punya _perplexity_ (kerumitan) dan _burstiness_ (variasi kalimat) yang rendah.&#x20;
+
+Singkatnya kalimatnya rata, datar, dan gak punya emosi. Media nasional gak bakal ngasih tau lu trik "dapur" ini karena mereka biasanya cuma bahas permukaannya aja.
 
 ## Prompt "Sakti" Agar Tulisan Lebih Manusiawi
 
 Berdasarkan pengalaman gue ngulik berbagai prompt, ini yang paling ampuh buat bahasa Indonesia. Silakan lu copy dan modifikasi sebelum masukin topik lu ke ChatGPT:
 
-> **Salin Prompt Ini:**_"Tolong tuliskan artikel tentang \[INPUT TOPIK LU]. Gunakan gaya bahasa Indonesia yang santai tapi edukatif. Hindari struktur kalimat yang terlalu formal atau kaku. Gunakan variasi panjang kalimat yang berbeda-beda (ada yang pendek sekali, ada yang agak panjang). Masukkan unsur opini pribadi dan keresahan manusiawi agar tidak terdeteksi sebagai tulisan AI. Gunakan istilah-istilah yang umum digunakan manusia, bukan bahasa baku kamus."_
+> **Salin Prompt Ini:**_"_&#x54;olong tuliskan artikel tentang \[INPUT TOPIK]. Gunakan gaya bahasa Indonesia yang santai, mengalir, dan terasa seperti ditulis oleh manusia yang benar-benar memahami topiknya. Hindari struktur yang terlalu rapi, terlalu formal, atau terlalu textbook. Gunakan variasi panjang kalimat (ada yang pendek, ada yang panjang dan reflektif). Sisipkan opini, sudut pandang pribadi, atau keresahan yang relevan dengan topik agar terasa lebih hidup. Jangan gunakan frasa generik atau klise seperti “di era digital ini”, “tidak dapat dipungkiri”, atau pola kalimat yang repetitif. Utamakan: Alur yang natural Transisi yang tidak terlalu mekanis Bahasa yang biasa dipakai sehari-hari Insight yang spesifik dan kontekstual Fokus pada value dan kedalaman, bukan sekadar panjang artikel.
 
 ## Rahasia Tambahan: Edit Manual Itu Wajib!
 
