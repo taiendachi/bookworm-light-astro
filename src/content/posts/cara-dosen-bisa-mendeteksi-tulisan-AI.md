@@ -60,7 +60,9 @@ Dosen mengenal gaya tulisanmu di kelas. Jika biasanya tulisanmu standar namun ti
 
 ## Kesimpulan
 
-Dosen mendeteksi tulisan AI dengan menggabungkan teknologi AI Detector dan pengamatan terhadap gaya bahasa mahasiswa. Untuk menghindari tuduhan penggunaan AI, pastikan kamu selalu melakukan edit manual, menambahkan opini pribadi, dan memverifikasi setiap data yang dihasilkan oleh alat bantu AI.
+Dosen mendeteksi tulisan AI dengan menggabungkan teknologi AI Detector dan pengamatan terhadap gaya bahasa mahasiswa.&#x20;
+
+Untuk menghindari tuduhan penggunaan AI, pastikan kamu selalu melakukan edit manual, menambahkan opini pribadi, dan memverifikasi setiap data yang dihasilkan oleh alat bantu AI.
 
 ## FAQ (Pertanyaan Sering Diajukan)
 
