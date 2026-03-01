@@ -8,7 +8,7 @@
     {
       "name": "X",
       "icon": "FaXTwitter",
-      "link": "https://x.com/"
+      "link": "https://x.com/taiendachi"
     },
     {
       "name": "instagram",
@@ -25,5 +25,6 @@
       "icon": "FaYoutube",
       "link": "https://www.youtube.com/"
     }
-  ]
+  ],
+  "draft": false
 }
