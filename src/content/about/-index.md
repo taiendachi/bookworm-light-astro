@@ -14,7 +14,10 @@ what_i_do:
       description: Aenean maximus urna magna elementum venenatis, quis semper non
         purus eget ipsum venenatis.
 ---
+Gue bukan cuma nulis. Gue bikin konten yang kerja.
 
-A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis quis non purus.
+​
 
-Purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis, aenean maximus urna magna elementum.
+Sebagai Content Writer & Content Creator, fokus gue simpel: bikin tulisan yang enak dibaca, kuat di SEO, dan bisa ngasih impact nyata entah itu traffic, engagement, atau konversi. Gue percaya satu hal,
+
+Konten bagus itu bukan yang panjang doang. Tapi yang niat, relevan, dan punya arah. Di dunia yang semua orang bisa “nulis”, gue milih jadi yang bisa strategi dan eksekusi.
