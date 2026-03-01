@@ -8,8 +8,10 @@ what_i_do:
   title: What I Do
   items:
     - title: Content Writing
-      description: Purus eget ipsum elementum venenatis, quis rutrum mi semper
-        nonpurus eget ipsum elementum venenatis.
+      description: Nulis itu bukan cuma kerjaan buat gue tapi ruang main. Gue suka
+        ngerangkai ide jadi tulisan yang rapi, tajam, dan enak dibaca. Kadang
+        ngebahas topik yang lagi rame, kadang ngulik hal yang orang lain nggak
+        kepikiran.
     - title: Web Research
       description: Aenean maximus urna magna elementum venenatis, quis semper non
         purus eget ipsum venenatis.
