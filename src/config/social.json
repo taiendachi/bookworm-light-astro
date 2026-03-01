@@ -19,11 +19,6 @@
       "name": "linkedin",
       "icon": "FaLinkedin",
       "link": "https://linkedin.com/in/taiendachi"
-    },
-    {
-      "name": "YouTube",
-      "icon": "FaYoutube",
-      "link": "https://www.youtube.com/"
     }
   ],
   "draft": false
