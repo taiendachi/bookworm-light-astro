@@ -13,9 +13,9 @@ what_i_do:
         ngebahas topik yang lagi rame, kadang ngulik hal yang orang lain nggak
         kepikiran.
     - title: Content Creator
-      description: Bikin konten itu fun. Tapi bukan asal upload. Gue nikmatin
-        prosesnya dari mikirin konsep, nulis script, sampai eksekusi. Bukan soal
-        viral, tapi soal eksplorasi dan konsistensi.
+      description: Bikin konten itu fun dan buat bahagia. Content Creator itu bukan
+        asal upload. Gue nikmatin prosesnya dari mikirin konsep, nulis script,
+        sampai eksekusi. Bukan soal viral, tapi soal eksplorasi dan konsistensi.
 ---
 Gue bukan cuma nulis. Gue bikin konten yang kerja.
 
