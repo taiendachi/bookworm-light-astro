@@ -16,8 +16,14 @@ what_i_do:
 ---
 Gue bukan cuma nulis. Gue bikin konten yang kerja.
 
-​
+Sebagai Content Writer & Content Creator, fokus gue simpel:&#x20;
 
-Sebagai Content Writer & Content Creator, fokus gue simpel: bikin tulisan yang enak dibaca, kuat di SEO, dan bisa ngasih impact nyata entah itu traffic, engagement, atau konversi. Gue percaya satu hal,
+bikin tulisan yang enak dibaca, kuat di SEO, dan bisa ngasih impact nyata&#x20;
 
-Konten bagus itu bukan yang panjang doang. Tapi yang niat, relevan, dan punya arah. Di dunia yang semua orang bisa “nulis”, gue milih jadi yang bisa strategi dan eksekusi.
+entah itu traffic, engagement, atau konversi. Gue percaya satu hal,
+
+Konten bagus itu bukan yang panjang doang.&#x20;
+
+Tapi yang niat, relevan, dan punya arah.&#x20;
+
+Di dunia yang semua orang bisa “nulis”, gue milih jadi yang bisa strategi dan eksekusi.
