@@ -1,12 +1,12 @@
 ---
-title: John Doe
-meta_title: ""
-image: /images/authors/john-doe.jpg
-description: this is meta description
+title: Taien Dachi
+meta_title: "Seorang Content Writer & Conten Creator"
+image: /images/taien dachi - Copy.jpg
+description: ""
 social:
-  facebook: https://www.facebook.com/johndoe
-  x: https://www.x.com/johndoe
-  linkedin: https://www.linkedin.com/johndoe
+  facebook: https://www.facebook.com/taiendachi94
+  x: https://x.com/taiendachi
+  linkedin: https://linkedin.com/in/taiendachi
 ---
 
 lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
