@@ -152,7 +152,7 @@ Rubrik berbasis AI lebih cepat dibuat dan umumnya memiliki struktur konsisten. N
 
 Jika waktu terbatas, AI sangat membantu. Jika kebutuhan sangat khusus, kombinasi AI dan penyesuaian manual adalah pendekatan terbaik.
 
-## Kesimpulan Cepat
+## Kesimpulan
 
 Rubrik penilaian adalah alat evaluasi berbasis kriteria dan skala nilai yang membantu menjaga objektivitas. Cara membuat rubrik penilaian dengan AI meliputi menentukan tujuan, menyusun 3–5 kriteria utama, menetapkan skala nilai yang jelas, menggunakan prompt spesifik, dan melakukan revisi akhir.
 
