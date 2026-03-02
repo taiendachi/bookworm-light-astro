@@ -4,9 +4,9 @@ meta_title: "Cara Dosen bisa Mendeteksi Tulisan AI Kalian"
 description: "Bongkar cara kerja sistem deteksi AI di kampus dan bagaimana dosen
   bisa membedakan tulisan mahasiswa dengan ChatGPT."
 date: 2025-04-02T05:00:00.000Z
-image: "/images/posts/02.jpg"
+image: "/images/Cara Dosen bisa Mendeteksi Tulisan AI Kalian.webp"
 categories:
-  - AI, ChatGPT, Dosen, Mahasiswa
+  - AI
 authors:
   - Taien Dachi
 tags:
