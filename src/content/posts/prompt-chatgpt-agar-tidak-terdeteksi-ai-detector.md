@@ -6,7 +6,7 @@ description: "Capek tulisan dituduh buatan robot? Ini pengalaman saya mengakali
   AI Detector menggunakan prompt khusus yang bikin tulisan ChatGPT jadi lebih
   manusiawi."
 date: 2025-04-01T05:00:00.000Z
-image: "/images/posts/01.jpg"
+image: "/images/Prompt ChatGPT Agar Tidak Terdeteksi AI Detector Bahasa Indonesia.jpg"
 categories:
   - AI, ChatGPT, Prompt
 authors:
