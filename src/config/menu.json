@@ -18,8 +18,8 @@
       "hasChildren": true,
       "children": [
         {
-          "name": "Authors",
-          "url": "/authors"
+          "name": "AI",
+          "url": "/ai"
         },
         {
           "name": "Categories",
