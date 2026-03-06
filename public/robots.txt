@@ -2,5 +2,10 @@ User-agent: *
 Allow: /
 
 Disallow: /api/*
+Disallow: /search
+Disallow: /tags
+Disallow: /tags/
+Disallow: /page/
+Disallow: /page/*
 
 Sitemap: https://taien.web.id/sitemap-index.xml
