@@ -19,6 +19,17 @@ const { Content } = await render(post);
 const { title, description, authors, categories, image, date, tags } =
   post.data;
 
+/* ================================
+AUTO INTERNAL LINKING
+================================ */
+
+const rawHtml = await Content();
+
+const processedContent = autoInternalLinks(
+  rawHtml,
+  posts.filter((p) => p.slug !== post.slug)
+);
+
 /* =====================================
 RELATED POSTS BERDASARKAN TAG
 ===================================== */
@@ -120,9 +131,11 @@ const similarPosts = posts
 
       <div class="md:col-10">
 
-        <div class="content mb-16 text-left">
-          <Content />
-        </div>
+        <!-- AUTO INTERNAL LINKED CONTENT -->
+        <div
+          class="content mb-16 text-left"
+          set:html={processedContent}
+        />
 
 
         <div class="flex flex-wrap items-center justify-between">
