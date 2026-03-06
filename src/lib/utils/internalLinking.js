@@ -1,40 +1,54 @@
-const linkMap = {
-  "ai skripsi": "/blog/aplikasi-ai-untuk-membuat-latar-belakang-skripsi",
-  "tools ai skripsi": "/blog/aplikasi-ai-untuk-membuat-latar-belakang-skripsi",
+export function autoInternalLinks(html, posts) {
 
-  "prompt skripsi": "/blog/prompt-ai-mahasiswa-skripsi",
-  "prompt chatgpt": "/blog/prompt-ai-mahasiswa-skripsi",
+  if (!html) return html;
 
-  "deteksi tulisan ai": "/blog/cara-dosen-bisa-mendeteksi-tulisan-ai",
-  "ai detector": "/blog/cara-dosen-bisa-mendeteksi-tulisan-ai",
+  let content = html;
 
-  "rubrik penilaian": "/blog/cara-membuat-rubrik-penilaian-dengan-ai",
-  "penilaian mahasiswa": "/blog/cara-membuat-rubrik-penilaian-dengan-ai",
+  const MAX_LINKS = 5;
+  let linkCount = 0;
 
-  "ai dalam pendidikan": "/blog/pengaruh-ai-terhadap-pendidikan-dan-dunia-kerja",
-  "teknologi pendidikan": "/blog/pengaruh-ai-terhadap-pendidikan-dan-dunia-kerja"
-};
+  const usedUrls = new Set();
 
-export function autoInternalLinks(content) {
-  let result = content;
-  let count = 0;
+  for (const post of posts) {
 
-  Object.entries(linkMap).forEach(([keyword, url]) => {
+    if (linkCount >= MAX_LINKS) break;
 
-    if (count >= 5) return;
+    const slug = post.slug || post.id;
 
-    const regex = new RegExp(`\\b${keyword}\\b`, "i");
+    const url = `/blog/${slug}`;
 
-    if (regex.test(result)) {
-      result = result.replace(
-        regex,
-        `<a href="${url}" class="internal-link">${keyword}</a>`
-      );
+    const title = post.data.title;
 
-      count++;
+    if (!title) continue;
+
+    if (usedUrls.has(url)) continue;
+
+    const words = title
+      .toLowerCase()
+      .replace(/[^\w\s]/g, "")
+      .split(" ")
+      .filter((w) => w.length > 4);
+
+    for (const word of words) {
+
+      if (linkCount >= MAX_LINKS) break;
+
+      const regex = new RegExp(`\\b(${word})\\b`, "i");
+
+      if (regex.test(content)) {
+
+        content = content.replace(
+          regex,
+          `<a href="${url}" class="internal-link">$1</a>`
+        );
+
+        usedUrls.add(url);
+        linkCount++;
+
+        break;
+      }
     }
+  }
 
-  });
-
-  return result;
+  return content;
 }
