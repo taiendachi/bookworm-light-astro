@@ -13,7 +13,6 @@ authors:
   - Taien Dachi
 tags:
   - Canva
-  - Blogspot
   - Blogger
   - Konten Digital
   - AI
