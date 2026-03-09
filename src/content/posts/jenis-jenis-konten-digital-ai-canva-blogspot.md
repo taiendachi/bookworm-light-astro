@@ -4,7 +4,7 @@ meta_title: "Panduan Konten Digital AI dengan Canva dan Blogspot (2026)"
 description: "Panduan komprehensif jenis-jenis konten digital yang bisa Anda
   ciptakan dengan memadukan kekuatan AI di platform Canva (Magic Studio) dan
   Blogspot (Blogger)."
-date: 2026-03-08T12:00:00.000Z
+date: 2026-03-09T08:35:00.000Z
 image: "/images/Jenis-Jenis Konten Digital AI Canva Blogspot.webp"
 categories:
   - Teknologi
@@ -17,7 +17,7 @@ tags:
   - Blogger
   - Konten Digital
   - AI
-draft: true
+draft: false
 ---
 Di era digital 2026, kemampuan membuat konten berkualitas tidak lagi tergantung pada keahlian teknis semata, tetapi pada bagaimana Anda memanfaatkan kecerdasan buatan (AI) secara strategis.&#x20;
 
